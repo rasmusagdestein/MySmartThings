@@ -7,7 +7,7 @@
 
 ## DeviceHandlers
 * [Fibaro Keyfob](https://github.com/ClassicGOD/SmartThingsPublic/tree/master/devicetypes/classicgod/fibaro-keyfob.src)
-..* [Fibaro Keyfob Forum](https://community.smartthings.com/t/release-fibaro-keyfob-30-actions-z-wave-plus-compatible-battery-powered-compact-remote-control/83491)
+   [Fibaro Keyfob Forum](https://community.smartthings.com/t/release-fibaro-keyfob-30-actions-z-wave-plus-compatible-battery-powered-compact-remote-control/83491)  
 
 
 ## SmartApps
